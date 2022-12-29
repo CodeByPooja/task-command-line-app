@@ -1,4 +1,4 @@
-# Pupilfirst Hiring - Software Engineering Test Problem | Priority list
+# Task Priority list
 
 In this step we want to see how you implement a command-line (CLI) program that lets you manage your tasks.
 
